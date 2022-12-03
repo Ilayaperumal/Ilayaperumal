@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ilayaperumal
-- 👀 I’m interested in Data Science and AI/ML, Coding, Exploring New Techologies 
+- 👀 Aspiring Data Scientist and AI/ML Enthusiast
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 !
