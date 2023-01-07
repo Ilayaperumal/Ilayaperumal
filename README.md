@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=ilayaperumal&color=blue)
+
+
 - 👋 Hi, I’m @Ilayaperumal
 - 👀 Aspiring Data Scientist and AI/ML Enthusiast
 - 🌱 I’m currently Practicing Machine Learning
