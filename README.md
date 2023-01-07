@@ -28,6 +28,3 @@ You can click the Preview link to take a look at your changes.
 [![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras)](https://github.com/Ilayaperumal)
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow)](https://github.com/Ilayaperumal) 
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)](https://github.com/Ilayaperumal)
-
-**Machine Learning**
-[![ML](https://www.credly.com/badges/cc2dfb1a-46ee-4ceb-bc3c-11f9ee30916d/public_url](https://github.com/Ilayaperumal)
