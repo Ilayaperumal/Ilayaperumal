@@ -1,5 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=ilayaperumal&color=blue)
-https://img.shields.io/factorio-mod-portal/last-updated/Last%20Updated
 
 - 👋 Hi, I’m @Ilayaperumal
 - 👀 Researcher | AI & ML Enthusiast | Aspiring Data Scientist
@@ -29,3 +28,4 @@ You can click the Preview link to take a look at your changes.
 [![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras)](https://github.com/Ilayaperumal)
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow)](https://github.com/Ilayaperumal) 
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)](https://github.com/Ilayaperumal)
+[![Seaborn](https://img.shields.io/badge/-Seaborn-blue?style=flat&logo=PyTorch&logoColor=pink)](https://github.com/Ilayaperumal)
