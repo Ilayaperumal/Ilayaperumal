@@ -1,12 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=ilayaperumal&color=blue)
-
+https://img.shields.io/factorio-mod-portal/last-updated/Last%20Updated
 
 - 👋 Hi, I’m @Ilayaperumal
-- 👀 Aspiring Data Scientist and AI/ML Enthusiast
-- 🌱 I’m currently Practicing Machine Learning
-- 💞️ I’m looking to collaborate on ML projects
-- 📫 !
-
+- 👀 Researcher | AI & ML Enthusiast | Aspiring Data Scientist
+- 🌱 I’m currently  Exploring Deep Learning
+- - 📫 I’m looking to collaborate on ML projects
 <!---
 Ilayaperumal/Ilayaperumal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
