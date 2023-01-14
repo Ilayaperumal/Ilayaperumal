@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Ilayaperumal
 - 👀 Researcher | AI & ML Enthusiast | Aspiring Data Scientist
 - 🌱 I’m currently  Exploring Deep Learning
-- - 📫 I’m looking to collaborate on ML projects
+- 📫 I’m willing to collaborate on ML projects
 <!---
 Ilayaperumal/Ilayaperumal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -22,10 +22,11 @@ You can click the Preview link to take a look at your changes.
  **Python**:
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas)](https://github.com/Ilayaperumal)
 [![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white)](https://github.com/Ilayaperumal)
-[![Scipy](https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white)](https://github.com/Ilayaperumal)
+[![Scipy](https://img.shields.io/badge/-Scipy-orange?style=flat&logo=Scipy&logoColor=white)](https://github.com/Ilayaperumal)
 [![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-blue?style=flat&logo=Scikit-learn&logoColor=white)](https://github.com/Ilayaperumal)
-[![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=Matplotlib&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Ilayaperumal)
-[![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras)](https://github.com/Ilayaperumal)
-[![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow)](https://github.com/Ilayaperumal) 
-[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)](https://github.com/Ilayaperumal)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-yellow?style=flat&logo=Matplotlib&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Ilayaperumal)
 [![Seaborn](https://img.shields.io/badge/-Seaborn-blue?style=flat&logo=PyTorch&logoColor=pink)](https://github.com/Ilayaperumal)
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow)](https://github.com/Ilayaperumal) 
+[![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras)](https://github.com/Ilayaperumal)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)](https://github.com/Ilayaperumal)
+
